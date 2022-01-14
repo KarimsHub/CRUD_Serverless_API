@@ -14,10 +14,3 @@
 11. Last but not least a delete Method to delete items in the db
 12. Now we have to deploy the API to make it active. For that you click on root --> actions --> deploy API
 13. Createa a new stage and give it a name (eg. prod)
-
-
-
-
-
-![ImgName](https://github.com/KarimsHub/Doubly_linked_list_datastructure/blob/master/sllvsdll.jpg?raw=true)
-
